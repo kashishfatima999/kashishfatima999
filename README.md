@@ -182,7 +182,7 @@ Student productivity platform with a **academic progress predictor** and **workl
 | | role | when |
 |---|---|---|
 | 🤖 | **AI Software Developer Intern** | Jul – Aug 2026 |
-| 📈 | **Sales Representative & Lead Gatherer at Exaverse ** *(promoted from Marketing Intern)* | May 2026 – present |
+| 📈 | **Sales Representative & Lead Gatherer at Exaverse** *(promoted from Marketing Intern)* | May 2026 – present |
 | 🎤 | **Campus Ambassador at TalentBecon** | Jul 2026 – Jul 2027 |
 
 <br/>
