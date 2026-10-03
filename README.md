@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://kashish-fatima-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌸_Portfolio-D6409F?style=for-the-badge" alt="Portfolio"/></a>
+
 <a href="https://linkedin.com/in/kashishfatima123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:kashishfatima999@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=kashishfatima999&label=Profile+views&color=D6409F&style=for-the-badge" alt="views"/>
