@@ -36,7 +36,17 @@ I'm a **3rd-year BS Data Science student at FAST NUCES, Lahore** who likes build
 <div align="center">
 
 ### languages
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,js,html,css,assembly&perline=7" alt="languages"/>
+
+<table align="center">
+<tr>
+<td align="center" width="170"><img src="https://skillicons.dev/icons?i=cpp" width="64" alt="C++"/><br/><b>C++</b><br/><sub>⭐⭐⭐⭐ core strength</sub></td>
+<td align="center" width="210"><img src="https://skillicons.dev/icons?i=python" width="96" alt="Python"/><br/><b>Python</b><br/><sub>⭐⭐⭐⭐⭐ my strongest</sub></td>
+<td align="center" width="170"><img src="https://skillicons.dev/icons?i=mysql" width="64" alt="SQL"/><br/><b>SQL</b><br/><sub>⭐⭐⭐⭐ core strength</sub></td>
+</tr>
+</table>
+
+<sub>also comfortable with</sub><br/>
+<img src="https://skillicons.dev/icons?i=cs,js,html,css,assembly&perline=5" alt="other languages"/>
 
 ### AI · ML · GenAI
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=7" alt="ml"/>
