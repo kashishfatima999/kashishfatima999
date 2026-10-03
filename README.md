@@ -26,7 +26,6 @@ I'm a **3rd-year BS Data Science student at FAST NUCES, Lahore** who likes build
 - 🔬 **Researching:** uncertainty-aware **YOLO-SAM2** polyp segmentation for medical imaging
 - 🛡️ **Building:** **VulnPulse**, a medallion lakehouse for live CVE analytics
 - 🎓 **Certified:** OCI 2025 Generative AI Professional and Data Science Professional
-- 🌍 **Selected for:** a competitive, fully funded 9-week global leadership programme
 - 🔌 **On the side:** tiny electronics, like light-reactive circuits and sound-responsive LEDs
 
 <br/>
@@ -183,9 +182,8 @@ Student productivity platform with a **academic progress predictor** and **workl
 | | role | when |
 |---|---|---|
 | 🤖 | **AI Software Developer Intern** | Jul – Aug 2026 |
-| 📈 | **Sales Representative & Lead Gatherer** *(promoted from Marketing Intern)* | May 2026 – present |
-| 🌍 | **Global Leadership Programme Fellow** *(competitively selected, fully funded)* | 2026 |
-| 🎤 | **Campus Ambassador** | Jul 2026 – Jul 2027 |
+| 📈 | **Sales Representative & Lead Gatherer at Exaverse ** *(promoted from Marketing Intern)* | May 2026 – present |
+| 🎤 | **Campus Ambassador at TalentBecon** | Jul 2026 – Jul 2027 |
 
 <br/>
 
