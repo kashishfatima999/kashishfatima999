@@ -22,11 +22,11 @@
 
 I'm a **3rd-year BS Data Science student at FAST NUCES, Lahore** who likes building things that actually *do* something. I work across the whole pipeline, from raw data ingestion to deployed, user-facing products.
 
-- 🤖 **Just shipped:** a production-grade multi-tenant **WhatsApp AI commerce platform** in a 2-month internship at Teczon Labs
+- 🤖 **Just shipped:** a production-grade multi-tenant **WhatsApp AI commerce platform** in a 2-month AI internship
 - 🔬 **Researching:** uncertainty-aware **YOLO-SAM2** polyp segmentation for medical imaging
 - 🛡️ **Building:** **VulnPulse**, a medallion lakehouse for live CVE analytics
 - 🎓 **Certified:** OCI 2025 Generative AI Professional and Data Science Professional
-- 🌍 **Selected for:** Aspire Leaders Program (Cohort 3), a fully funded global leadership programme
+- 🌍 **Selected for:** a competitive, fully funded 9-week global leadership programme
 - 🔌 **On the side:** tiny electronics, like light-reactive circuits and sound-responsive LEDs
 
 <br/>
@@ -87,7 +87,7 @@ I'm a **3rd-year BS Data Science student at FAST NUCES, Lahore** who likes build
 <td width="50%" valign="top">
 
 ### 💬 WhatsApp AI Commerce Platform
-`Teczon Labs · Jul–Aug 2026`
+`Internship project · Jul–Aug 2026`
 
 Production-grade, **multi-tenant** platform delivered in **2 months**. RAG pipeline (LangChain + FAISS + HNSW) wired into the WhatsApp Business API for semantic product search and AI customer conversations. JWT auth, RBAC, Docker, GitHub Actions CI/CD, Alembic migrations.
 
@@ -143,7 +143,7 @@ Full-stack workforce-matching platform for blue-collar workers: role-based auth,
 ### 📚 StudySync
 `Feb–May 2026`
 
-Student productivity platform with a **GPA predictor** and **workload scheduler**, piloted with **50+ users**. REST APIs tested in Postman, UI prototyped in Figma.
+Student productivity platform with a **academic progress predictor** and **workload scheduler**, piloted with **50+ users**. REST APIs tested in Postman, UI prototyped in Figma.
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
@@ -172,10 +172,10 @@ Student productivity platform with a **GPA predictor** and **workload scheduler*
 
 | | role | when |
 |---|---|---|
-| 🤖 | **AI Software Developer Intern**, Teczon Labs | Jul – Aug 2026 |
-| 📈 | **Sales Representative & Lead Gatherer**, Exaverse *(promoted from Marketing Intern)* | May 2026 – present |
-| 🌍 | **Aspire Leaders Program, Cohort 3**, Aspire Institute (HBS faculty-founded) | 2026 |
-| 🎤 | **Campus Ambassador**, TalentBeacon | Jul 2026 – Jul 2027 |
+| 🤖 | **AI Software Developer Intern** | Jul – Aug 2026 |
+| 📈 | **Sales Representative & Lead Gatherer** *(promoted from Marketing Intern)* | May 2026 – present |
+| 🌍 | **Global Leadership Programme Fellow** *(competitively selected, fully funded)* | 2026 |
+| 🎤 | **Campus Ambassador** | Jul 2026 – Jul 2027 |
 
 <br/>
 
