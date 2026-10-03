@@ -233,7 +233,6 @@ I'm open to **AI / ML / data / full-stack** internships and research collaborati
 
 <div align="center">
 
-<a href="https://kashish-fatima-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D6409F?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/kashishfatima123"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:kashishfatima999@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
